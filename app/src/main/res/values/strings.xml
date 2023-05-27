@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">read_textfile_csv</string>
+    <string name="read_file_csv">Read File csv</string>
+</resources>
